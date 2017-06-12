@@ -1,0 +1,40 @@
+{
+  "status": true,
+  "data": {
+    "account": "0x14382f690a2e55e4a4421b4dca4f7b7fb7ffd0be",
+    "unconfirmed_balance": "0.00000000",
+    "balance": "0.16043257",
+    "hashrate": "86.0",
+    "avgHashrate": {
+      "h1": "20.6",
+      "h3": "21.8",
+      "h6": "24.2",
+      "h12": "24.9",
+      "h24": "24.9"
+    },
+    "workers": [
+      {
+        "id": "worker_01",
+        "hashrate": "22.9",
+        "lastShare": 1497241445,
+        "rating": 695,
+        "avg_h1": "21.1",
+        "avg_h3": "21.3",
+        "avg_h6": "23.7",
+        "avg_h12": "24.9",
+        "avg_h24": "24.9"
+      },
+      {
+        "id": "worker_02",
+        "hashrate": "23.1",
+        "lastShare": 1497288050,
+        "rating": 608,
+        "avg_h1": "20.1",
+        "avg_h3": "22.3",
+        "avg_h6": "24.7",
+        "avg_h12": "24.8",
+        "avg_h24": "25.0"
+      }
+    ]
+  }
+}
