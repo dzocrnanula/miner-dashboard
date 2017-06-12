@@ -1,0 +1,38 @@
+{
+  "name": "miner-dashboard",
+  "version": "0.0.1",
+  "main": "run.js",
+  "scripts": {
+    "dev": "nodemon",
+    "test": "nodemon test/index.js && standard"
+  },
+  "keywords": [],
+  "author": "Djordje Bjelajac <djordje.bjelajac@gmail.com> (https://github.com/dzocrnanula/)",
+  "license": "MIT",
+  "devDependencies": {
+    "dotenv": "^4.0.0",
+    "fakeredis": "^2.0.0",
+    "fetch-mock": "^5.11.0",
+    "standard": "^8.6.0",
+    "tape": "^4.6.3",
+    "bluebird": "^3.5.0",
+    "lodash": "^4.17.4",
+    "node-fetch": "^1.7.1",
+    "nodemon": "^1.11.0",
+    "redis": "^2.7.1"
+  },
+  "dependencies": {
+    "redis": "2.7.1"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dzocrnanula/miner-dashboard/"
+  },
+  "bugs": {
+    "url": "https://github.com/dzocrnanula/miner-dashboard/issues"
+  },
+  "description": ""
+}
